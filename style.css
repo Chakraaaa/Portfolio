@@ -1,0 +1,157 @@
+.header{
+    height: 80px;
+    background-color: black;
+}
+
+.fond_noir{
+    background-color: black;
+}
+
+.taille_logo{
+    height: 80px;
+    width: 110px;
+}
+
+.head_name{
+    font-size: 20px;
+    margin-top: 23px;
+    margin-left: 10px;
+    color: white;
+}
+
+.mid{
+    height: 500px;
+}
+    
+.titre_accueil{
+    font-size: 70px;
+    color: white;
+    font-family: 'Libre Caslon Text', serif;
+    margin-top: 50px;
+}
+
+.ma_photo{
+    height: 360px;
+    width: 400px;
+    margin-top: 50px;
+}
+
+
+.footer{
+    height: 150px;
+}
+    
+.footer-line {
+    height: 3px;
+    background-color: white;
+
+}
+
+.logo_twitter {
+    
+    height: 40px ;
+    width: 40px;
+
+}
+
+.logo_youtube{
+    height: 60px;
+    width: 80px;
+}
+
+.slide_projet{
+    height: 450px;
+}
+
+
+.taille_slide{
+    height: 450px;
+}
+
+.contact{
+    height: 495px;
+}
+
+.fond_contact{
+    height: 495px;
+    width: 1400px;
+
+}
+
+.carre_contact{
+    height: 220px;
+    margin-top: 120px;
+    background-color: black;
+
+}
+
+.police_contact{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20px;
+}
+
+.img_fond{
+    background-image: url('img/image.png');
+}
+
+.competences_header{
+    height: 60px;
+}
+
+.txt_cv{
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+}
+
+.cv{
+    height: 450px ;
+}
+
+.txt_competence{
+    font-size: 20px;
+    color: white;
+}
+
+.txt_superu{
+    color: white;
+    margin-top: 100px;
+    margin-left: 10px;
+
+}
+
+.txt_macdo{
+    color: white;
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+.superu_logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 90px;
+
+}
+
+.macdo_logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 120px;
+
+}
+
+.btn_cv{
+    margin-top: 19px;
+}
+
+.dl_logo{
+    width: 25px;
+    height: 25px;
+}
+
+
+.txt_btn{
+    color: white;
+    font-size: 20px;
+}
+
